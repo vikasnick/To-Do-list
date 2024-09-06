@@ -1,6 +1,7 @@
 {
-  "name": "vendor/package-name",
+  "name": "vikas/todo-list",
   "description": "Here you can create a todo list of your tasks. And you can close and delete tasks from the list",
+  "version": "1.0.0",
   "type": "library",
   "require": {
     "php": "^8.0",
