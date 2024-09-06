@@ -6,7 +6,7 @@ This is a simple To-Do list application built using the Laravel framework.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jkrajpootbdn94/create-todo-list-in-laravel
+    https://github.com/vikasnick/To-Do-list.git
     ```
 2. Install dependencies:
     ```bash
